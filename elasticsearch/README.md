@@ -1,5 +1,16 @@
 # ElasticSearch
 
+
+ElasticSearch version: 1.3.1
+
+Plugins installed:
+
+* Marvel
+* mapper-attachement
+* BigDesk
+* Inquisitor
+
+
 Build the image
 
     docker build -t ipedrazas/elasticsearch .
